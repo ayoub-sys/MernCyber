@@ -1,0 +1,23 @@
+#Routing:
+create Routing and handle it 
+#Authentication: 
+-create login form
+-create register form 
+-handle errors in both react and node 
+- create jwt for user tracking
+#React (Front end)
+create pages (Home page, latest news page, scan target page)
+design page with css 
+
+# Node(Back end)
+create endpoint
+create routing 
+create controllers and middlewares
+setting mongo db
+create models( cybersecurity database and users collection to store emails and passwords)
+
+#link node with react 
+link react with node js endpoints
+
+
+
